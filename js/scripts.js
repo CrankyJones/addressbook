@@ -87,6 +87,7 @@ $(document).ready(function () {
   });
 });
 
+
 /*
 
 1. Create 1 contructor hold all the todos
